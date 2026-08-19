@@ -19,6 +19,6 @@ Follow these steps to set up and run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/manish-2412/ShortsAI.git](https://github.com/manish-2412/ShortsAI.git)
+git clone 
 
 eof
